@@ -1,0 +1,52 @@
+This document presents a comparative analysis of different transformer models for query routing. We evaluate several models and present their performance metrics, confusion matrices, and incorrect classification examples.
+Loaded 38 topics from 5 categories
+Loaded 485 queries from the dataset with occasional typos
+Evaluating model: bert-base-uncased
+Initializing model: bert-base-uncased
+Generated embeddings with shape: (38, 768) for topics
+Classifying queries with model: bert-base-uncased
+Creating confusion matrix for model: bert-base-uncased
+The following confusion matrix shows the distribution of true vs predicted categories:
+The following metrics summarize the model's performance:
+Evaluating model: prajjwal1/bert-mini
+Initializing model: prajjwal1/bert-mini
+Generated embeddings with shape: (38, 256) for topics
+Classifying queries with model: prajjwal1/bert-mini
+Creating confusion matrix for model: prajjwal1/bert-mini
+The following confusion matrix shows the distribution of true vs predicted categories:
+The following metrics summarize the model's performance:
+Evaluating model: all-MiniLM-L6-v2
+Initializing model: all-MiniLM-L6-v2
+Generated embeddings with shape: (38, 384) for topics
+Classifying queries with model: all-MiniLM-L6-v2
+Creating confusion matrix for model: all-MiniLM-L6-v2
+The following confusion matrix shows the distribution of true vs predicted categories:
+The following metrics summarize the model's performance:
+The following table compares the performance of all tested models:
+The following spider chart visualizes the performance of all models:
+Queries/Second: Number of entries that can be processed in 1 second.
+Total category-level errors: 115
+Total subcategory-level errors: 194
+Total category-level errors: 135
+Total subcategory-level errors: 178
+Total category-level errors: 80
+Total subcategory-level errors: 105
+Accuracy - The overall proportion of correct predictions (both true positives and true negatives) over the total number of predictions.
+Precision (Positive Predictive Value) - The proportion of true positive predictions among all positive predictions. Shows how reliable positive classifications are.
+Recall (Sensitivity, True Positive Rate) - The proportion of actual positives that were correctly identified. Shows how well the classifier finds all positive cases.
+F1 Score - The harmonic mean of precision and recall, providing a balance between the two, especially useful for imbalanced datasets.
+Area Under ROC Curve (AUC-ROC) - Measures the classifier's ability to discriminate between classes across various thresholds.
+Confusion Matrix - A table showing true positives, false positives, true negatives, and false negatives.
+Specificity (True Negative Rate) - The proportion of actual negatives correctly identified.
+False Positive Rate - The proportion of actual negatives incorrectly classified as positive.
+Classification Threshold - The decision boundary used to determine class assignment.
+Class Distribution - Information about the balance or imbalance of classes in your dataset.
+Model Confidence/Probability Scores - The probability estimates for predictions rather than just the final classifications.
+Training/Testing Performance Gap - Indicates potential overfitting or underfitting.
+Feature Importance - Which features have the greatest impact on classification outcomes.
+Cross-Validation Results - Performance metrics across multiple data splits.
+Runtime/Inference Speed - How quickly the classifier makes predictions.
+Report saved to Results/report.docx
+
+Experiment completed successfully.
+Report generated at: Results/report.docx

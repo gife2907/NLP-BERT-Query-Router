@@ -1,0 +1,48 @@
+GILLES' MAC INSTALL NOTES.TXT
+
+Install Process sources:
+
+	heelson		https://claude.ai/chat/332abacf-25c9-4a1e-a9df-19846d694210
+	gilles		https://claude.ai/chat/4f029631-ab46-4587-a236-dbc05405cf3f
+
+
+Install Pytorch:
+
+	> brew install miniconda
+	> conda init zsh
+	> conda create -n pytorch_env python=3.9
+	> conda activate pytorch_env
+	> conda install pytorch torchvision torchaudio -c pytorch
+
+
+Install Transformers:
+
+	> pip install transformers datasets evaluate accelerate
+
+Install Jupyter for notebooks
+
+	> pip install jupyter
+
+Install Sentence-transformers
+
+	> pip install sentence-transformers
+
+Install scikit-learn
+
+	> pip install scikit-learn
+
+Install matplotlib
+
+	> pip install matplotlib
+
+Install seaborn
+
+	> pip install seaborn
+
+Install Python-docx
+
+	> pip install python-docx
+
+Install Cairo
+
+	> pip install cairosvg

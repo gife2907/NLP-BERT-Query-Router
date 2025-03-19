@@ -1,0 +1,486 @@
+query,category,subcategory
+"how much should I water my lawn in july?",Yard guidance,Watering
+"when is best time to fertlize my lawn",Yard guidance,Fertilizer timing
+"my grass has yellow patches what do i do",Yard guidance,Spots or patches
+"how to use dandelion doom?",Sunday products,Instructions
+"need to pause my subscription for 3 months",Subscription,Pause
+"can you help me cancel my plan please",Cancel,Cancel
+"hi sunny how are you today",Other,Greeting
+"best time to seed my lawn in pennsylvania",Yard guidance,Seeding
+"how do i aerate my lawn",Yard guidance,Aerification
+"when should I mow after applying fertilizer",Yard guidance,Mowing
+"my sprayer isnt working properly",Sunday products,Sprayer
+"what's included in next years plan?",Subscription,Renewal
+"how to get rid of crabgrass in my yard",Yard guidance,Weed control
+"do i need to water after applying weed warrior",Sunday products,Instructions
+"missing my soil test results, when will they be ready?",Sunday products,Soil test
+"what should i do to prepare lawn for winter",Yard guidance,Seasonal changes
+"is it safe for my dog to walk on lawn after treatment",Sunday products,Safety
+"can I get a refund for unused product",Subscription,Refunds or credits
+"how to contact customer service",Other,Customer service agent
+"my lawn size is wrong on my acct",Subscription,Lawn size
+"dandelions all over my yard help!",Yard guidance,Weed control
+"how tall should I cut my fescue",Yard guidance,Mowing
+"what's in my next shipment",Subscription,Next shipment
+"how to identify grass type in my lawn",Yard guidance,Grass types
+"what should i do with the solidified product",Sunday products,Product solidified
+"moving to new house need to update address",Other,Moving
+"how often shud I water new grass seed",Yard guidance,Seeding
+"can i use last years fertilizer",Sunday products,Longevity
+"missing item in my box",Subscription,Missing order or item
+"lawn has brown spots after using product",Sunday products,No improvement
+"how to deal with grubs in yard",Yard guidance,Insects
+"hello can you recommend best grass for shade",Yard guidance,Grass types
+"need to add weed control to my plan",Subscription,Modifying plan
+"do you have any promotions right now",Subscription,Discounts and transactions
+"how to fix dog pee spots in lawn",Yard guidance,Dog urine spots
+"how to apply core seagreen",Sunday products,Instructions
+"when should i aerify my lawn",Yard guidance,Aerification
+"how do i fix compacted soil in backyard",Yard guidance,Soil problems
+"want to cancell my subscription",Cancel,Cancel
+"is it ok to fertilize before rain",Yard guidance,Fertilizer timing
+"how to get rid of mushrooms in lawn",Yard guidance,Disease
+"my shipment says delivered but I dont have it",Subscription,Missing order or item
+"how to grow tomatoes in my garden",Yard guidance,Garden plant care
+"how often should i water during drought",Yard guidance,Watering
+"missed my spring application what shuld i do",Sunday products,Missed applications
+"need tracking # for my order",Subscription,Next shipment
+"what products do you offer for weeds",Sunday products,Product assortment
+"how to get soil sample",Sunday products,Soil test
+"keep getting mosquitos in my yard",Yard guidance,Yard pests
+"moles ruining my lawn what can I do",Yard guidance,Vertebrate pests
+"can you help me with checkout problem",Subscription,Discounts and transactions
+"when can kids play on lawn after applying products",Sunday products,Safety
+"how to stop crabgrass from coming back",Yard guidance,Weed control
+"best way to fix bare spots",Yard guidance,Spots or patches
+"i want to talk to a real person",Other,Customer service agent
+"I see brown patch disease what should I use",Yard guidance,Disease
+"when will my order ship",Subscription,Next shipment
+"best time to mow lawn",Yard guidance,Mowing
+"whats the coverage area for weed warrior",Sunday products,Instructions
+"my grass is thinning what should i do",Yard guidance,Spots or patches
+"i missed application window, what now?",Sunday products,Missed applications
+"need to cancel before next billing",Cancel,Cancel
+"lawn has bumpy uneven surface",Yard guidance,Soil problems
+"is seagreen safe for pets?",Sunday products,Safety
+"what products are coming in spring?",Subscription,Next shipment
+"how to handle ants in my yard",Yard guidance,Yard pests
+"how much should I water bermuda grass",Yard guidance,Watering
+"my lawn is full of weeds help!!!",Yard guidance,Weed control
+"what to do about chinch bugs",Yard guidance,Insects
+"can i get a discount for next year",Subscription,Discounts and transactions
+"good morning, need help with my lawn",Other,Greeting
+"how do I update my payment info",Subscription,Discounts and transactions
+"best time to seed a new lawn",Yard guidance,Seeding
+"got wrong product in my shipment",Subscription,Missing order or item
+"help with soil drainage issues",Yard guidance,Soil problems
+"no improvement after 3 months of use",Sunday products,No improvement
+"should I water more in summer?",Yard guidance,Watering
+"when do I apply fall fertilizer?",Yard guidance,Fertilizer timing
+"how to grow healthy vegetables",Yard guidance,Garden plant care
+"deer eating my plants, what to do?",Yard guidance,Vertebrate pests
+"how to apply grass seed correctly",Yard guidance,Seeding
+"product has sediment at bottom of pouch",Sunday products,Product solidified
+"can I use your products with scottts",Sunday products,Instructions
+"what should I do with missed treatment",Sunday products,Missed applications
+"how to cancle my subscription plan",Cancel,Cancel
+"how to apply weed warrior and grass seed together",Sunday products,Instructions
+"is it ok to store unused fertilizer til next year",Sunday products,Longevity
+"lawn still has weeds after treatment",Sunday products,No improvement
+"how to identify lawn disease",Yard guidance,Disease
+"whats the best mowing height",Yard guidance,Mowing
+"why is my soil so hard",Yard guidance,Soil problems
+"hi sunny need help with my lawn",Other,Greeting
+"what do you recommend for bermuda grass",Yard guidance,Grass types
+"how do i fix my order thats wrong",Subscription,Missing order or item
+"when will my credit card be charged",Subscription,Renewal
+"when to apply preemergent for crabgrass",Yard guidance,Weed control
+"what to do about moles in yard",Yard guidance,Vertebrate pests
+"is there a promo code for renewing",Subscription,Discounts and transactions
+"my lawn has patches of different grass",Yard guidance,Grass types
+"can I water right after mowing",Yard guidance,Watering
+"how do i test my soil ph",Sunday products,Soil test
+"what time of day is best to water lawn",Yard guidance,Watering
+"how to solve hard compact soil",Yard guidance,Soil problems
+"help me cancel my plan",Cancel,Cancel
+"how to fix patchy grass in backyard",Yard guidance,Spots or patches
+"whats in my next box shipping",Subscription,Next shipment
+"how to set up sprayer for weed warrior",Sunday products,Instructions
+"best fertilizer for sandy soil",Yard guidance,Soil problems
+"my grass is turning brown in summer",Yard guidance,Spots or patches
+"how to keep dandelions from coming back",Yard guidance,Weed control
+"help with grubs in my lawn",Yard guidance,Insects
+"when can I reseed thin spots",Yard guidance,Seeding
+"my box is missing a product",Subscription,Missing order or item
+"should I water lawn every day",Yard guidance,Watering
+"how to aerate compacted soil",Yard guidance,Aerification
+"missed my summer application",Sunday products,Missed applications
+"how do I change my shipping address",Other,Moving
+"can you reccomend best lawn care products",Sunday products,Product assortment
+"what is the best height to cut my grass",Yard guidance,Mowing
+"worried about product safety for kids",Sunday products,Safety
+"what to do about mushrooms after rain",Yard guidance,Disease
+"when is my next delivery scheduled",Subscription,Next shipment
+"not seeing results from fertilizer",Sunday products,No improvement
+"want to add mosquito control to my plan",Subscription,Modifying plan
+"best grass seed for front yard shade",Yard guidance,Grass types
+"how to stop my dog from killing grass",Yard guidance,Dog urine spots
+"how often should i aerate my lawn",Yard guidance,Aerification
+"what to do in march for my lawn",Yard guidance,Seasonal changes
+"when to use core endurence product",Sunday products,Instructions
+"can i get a refund if product doesnt work",Subscription,Refunds or credits
+"need to talk to someone about my plan",Other,Customer service agent
+"when to water after applying seed",Yard guidance,Seeding
+"how to use my weed control spray",Sunday products,Instructions
+"lawn is patchy after using products",Sunday products,No improvement
+"best time to cut grass in summer",Yard guidance,Mowing
+"invoice shows wrong lawn size",Subscription,Lawn size
+"problems with checkout on website",Subscription,Discounts and transactions
+"can i save my fertlizer for next year",Sunday products,Longevity
+"what to do about ant hills in yard",Yard guidance,Yard pests
+"rabbits eating my garden what to do",Yard guidance,Vertebrate pests
+"I need to change my plan",Subscription,Modifying plan
+"how to get rid of grassy weeds",Yard guidance,Weed control
+"lawn mower height for zoysia",Yard guidance,Mowing
+"when is too late to seed in fall",Yard guidance,Seeding
+"how do I apply fall fortify",Sunday products,Instructions
+"can I get a discount if I renew early",Subscription,Discounts and transactions
+"best time to areate lawn",Yard guidance,Aerification
+"how to identify what kind of grass I have",Yard guidance,Grass types
+"is your product safe for bees",Sunday products,Safety
+"help how to fix dead spots in lawn",Yard guidance,Spots or patches
+"what is in my nextt shipment",Subscription,Next shipment
+"is this good time to fertilize",Yard guidance,Fertilizer timing
+"how to get lawn green in spring",Yard guidance,Seasonal changes
+"im getting ticks in my yard help",Yard guidance,Yard pests
+"I want to upgrade my plan",Subscription,Modifying plan
+"when will I recieve my next box",Subscription,Next shipment
+"how much water for new sod",Yard guidance,Watering
+"need to stop shipment for a while",Subscription,Pause
+"help with lawn fungus spots",Yard guidance,Disease
+"how to fix thin grass in shade",Yard guidance,Spots or patches
+"how to get rid of moles in lawn",Yard guidance,Vertebrate pests
+"when to mow new grass seedlings",Yard guidance,Mowing
+"what happens if I cancel my plan",Cancel,Cancel
+"I mised my spring application",Sunday products,Missed applications
+"why is dirt showing through grass",Yard guidance,Spots or patches
+"how to solve lawn drainage problem",Yard guidance,Soil problems
+"is it safe to use your products with kids around",Sunday products,Safety
+"when do i rake dead grass",Yard guidance,Seasonal changes
+"how to use sprayer effectively",Sunday products,Sprayer
+"when to apply pre emergent for crabgrass",Yard guidance,Weed control
+"box missing item what should i do",Subscription,Missing order or item
+"do i need to add soil before seeding",Yard guidance,Seeding
+"weeds coming back after treatment",Sunday products,No improvement
+"sould i water lawn after mowing",Yard guidance,Watering
+"best time of day to kill weeds",Yard guidance,Weed control
+"how to stop armyworms in my yard",Yard guidance,Insects
+"can i add more products to my plan",Subscription,Modifying plan
+"hello sunny how do i contact support",Other,Greeting
+"how to fix soil after construction",Yard guidance,Soil problems
+"how to use your fertilizer with my watering schedule",Sunday products,Instructions
+"can i get a refund for my plan",Subscription,Refunds or credits
+"grass is different color in spots",Yard guidance,Spots or patches
+"how often to cut st augustine",Yard guidance,Mowing
+"when to water after weed killer",Yard guidance,Watering
+"tracking info for my order",Subscription,Next shipment
+"when to apply your seed products",Sunday products,Instructions
+"looking to cancel my subscription asap",Cancel,Cancel
+"best time of year to fix bare spots",Yard guidance,Spots or patches
+"how long does weed warrior last",Sunday products,Longevity
+"what are the black spots on my grass",Yard guidance,Disease
+"when should i fertilize after seeding",Yard guidance,Fertilizer timing
+"how to use grass powerhouse product",Sunday products,Instructions
+"best way to prepare soil for seeding",Yard guidance,Seeding
+"do i need to water after using soil supplement",Sunday products,Instructions
+"need new shipping labels for soil test",Sunday products,Soil test
+"what time of day is best for mowing",Yard guidance,Mowing
+"how to fix yellow grass patches",Yard guidance,Spots or patches
+"cancellation process for my plan",Cancel,Cancel
+"when to water if forecast shows rain",Yard guidance,Watering
+"instructions for applying fertilizer",Sunday products,Instructions
+"my shipment hasnt arrived yet",Subscription,Next shipment
+"how often to cut grass in fall",Yard guidance,Mowing
+"should i use core aeration",Yard guidance,Aerification
+"do you have a product for clover",Sunday products,Product assortment
+"what kind of weed is this in my lawn",Yard guidance,Weed control
+"good morning what can i do for brown spots",Other,Greeting
+"no improvement in my grass after 2 months",Sunday products,No improvement
+"what products will help my lawn grow thicker",Sunday products,Product assortment
+"what to do about patchy lawn",Yard guidance,Spots or patches
+"when should i seed my patchy lawn",Yard guidance,Seeding
+"missed application can i still use it",Sunday products,Missed applications
+"need to postpone next shipment",Subscription,Pause
+"i need to stop my service",Cancel,Cancel
+"can I get a credit for missing item",Subscription,Refunds or credits
+"does your spring fertilizer have weed control",Sunday products,Product assortment
+"when to mow bermuda grass",Yard guidance,Mowing
+"can i use your products with my other fertilizer",Sunday products,Instructions
+"is it ok to mow after rain",Yard guidance,Mowing
+"how do i fix poor drainage in lawn",Yard guidance,Soil problems
+"best way to kill dandelions",Yard guidance,Weed control
+"help with my invoice please",Subscription,Discounts and transactions
+"whats included in basic plan",Subscription,Modifying plan
+"my dog pees on lawn spots dying",Yard guidance,Dog urine spots
+"how to get soil test results faster",Sunday products,Soil test
+"when will my order ship out",Subscription,Next shipment
+"what to put on lawn in spring",Yard guidance,Seasonal changes
+"need help applying grass seed",Yard guidance,Seeding
+"my sprayer is clogged with stuff",Sunday products,Sprayer
+"how to control mole crickets",Yard guidance,Insects
+"do you have product for fire ants",Sunday products,Product assortment
+"can you help me with cancellation please",Cancel,Cancel
+"lawn seede not growing well",Yard guidance,Seeding
+"i want to grow a garden in my yard",Yard guidance,Garden plant care
+"should I water after seeding",Yard guidance,Seeding
+"application schedule for products",Sunday products,Instructions
+"is it safe for pets to walk on lawn after treatment",Sunday products,Safety
+"how to care for lawn during drought",Yard guidance,Watering
+"how to determine my grass type",Yard guidance,Grass types
+"getting weeds after weed warrior application",Sunday products,No improvement
+"ticks in my yard how to treat",Yard guidance,Yard pests
+"can i roll over credit to next year",Subscription,Refunds or credits
+"where to send soil sample",Sunday products,Soil test
+"is it safe to mow after fertilizing",Yard guidance,Mowing
+"what products do you offer for spring",Sunday products,Product assortment
+"want to change my plan size",Subscription,Lawn size
+"how to handle heavily compacted soil",Yard guidance,Soil problems
+"I want to cancel before renewal",Cancel,Cancel
+"help identifying weeds in my yard",Yard guidance,Weed control
+"fertilizer spilled on grass is it ok",Sunday products,Instructions
+"need discount code for checkout",Subscription,Discounts and transactions
+"lawn problems after installing sprinklers",Yard guidance,Spots or patches
+"how to prepair my lawn for summer",Yard guidance,Seasonal changes
+"what kind of grass grows in shade",Yard guidance,Grass types
+"product arrived leaking in box",Subscription,Missing order or item
+"brown circular patches in lawn",Yard guidance,Disease
+"what products will come in my fall box",Subscription,Next shipment
+"best practice for watering new sod",Yard guidance,Watering
+"need help removing crabgrass",Yard guidance,Weed control
+"hi sunny i have a question about my lawn",Other,Greeting
+"what insects damage lawns in summer",Yard guidance,Insects
+"what to do about rabbits eating garden",Yard guidance,Vertebrate pests
+"how to fix lawn after drought",Yard guidance,Spots or patches
+"when to aerate before seeding",Yard guidance,Aerification
+"what does core seagreen do",Sunday products,Instructions
+"which products help with clay soil",Sunday products,Product assortment
+"my soil test kit is missing",Subscription,Missing order or item
+"when to apply potassium boost",Sunday products,Instructions
+"canceling due to moving houses",Cancel,Cancel
+"how often to mow in rainy season",Yard guidance,Mowing
+"what is best time to apply weed killer",Yard guidance,Weed control
+"should I overseed thin lawn areas",Yard guidance,Seeding
+"how to handle moss in my lawn",Yard guidance,Disease
+"can I change my plan midseason",Subscription,Modifying plan
+"is product ok with well water",Sunday products,Instructions
+"how long before i see grass grow",Yard guidance,Seeding
+"missing my latest shipment",Subscription,Missing order or item
+"help identifying grass disease",Yard guidance,Disease
+"can i get partial refund for unused product",Subscription,Refunds or credits
+"weeds in my garden how to control",Yard guidance,Garden plant care
+"best product for new lawn",Sunday products,Product assortment
+"how to fix lawn burnout from summer",Yard guidance,Spots or patches
+"instructions for grass powerhouse application",Sunday products,Instructions
+"how to grow grass under trees",Yard guidance,Grass types
+"best way to keep lawn moist",Yard guidance,Watering
+"how to manage dog spots in lawn",Yard guidance,Dog urine spots
+"is your fall treatment safe for kids",Sunday products,Safety
+"whats in my next box shipment",Subscription,Next shipment
+"can i change my lawn size measurement",Subscription,Lawn size
+"how much to water in texas heat",Yard guidance,Watering
+"product not working on my weeds",Sunday products,No improvement
+"how to tell what kind of grass i have",Yard guidance,Grass types
+"missed spring application still use it?",Sunday products,Missed applications
+"help need to stop my plan",Cancel,Cancel
+"best product for lawn patches",Sunday products,Product assortment
+"need to know timing of next shipment",Subscription,Next shipment
+"how to take care of my garden plants",Yard guidance,Garden plant care
+"application for weed warrior instructions",Sunday products,Instructions
+"what is best mower height for summer",Yard guidance,Mowing
+"how do i fix lawn erosion",Yard guidance,Soil problems
+"how to get my lawn ready for fall",Yard guidance,Seasonal changes
+"i have fleas in my yard help",Yard guidance,Yard pests
+"fertilizer shipped looks solid is that normal",Sunday products,Product solidified
+"can I speak to a representative",Other,Customer service agent
+"how to prevent annual weeds",Yard guidance,Weed control
+"should I rake before seeding",Yard guidance,Seeding
+"can i use dandelion doom on clover",Sunday products,Instructions
+"should i mow wet grass",Yard guidance,Mowing
+"can i pause my subscription temporarily",Subscription,Pause
+"when can i expect my next shipment",Subscription,Next shipment
+"how to use organic fertilizer",Sunday products,Instructions
+"help need to cancel asap",Cancel,Cancel
+"best practices for new grass seed",Yard guidance,Seeding
+"instructions for soil test kit",Sunday products,Soil test
+"can't login to my account for payment",Subscription,Discounts and transactions
+"wet spots in lawn not drying",Yard guidance,Soil problems
+"how to get rid of lawn fungus",Yard guidance,Disease
+"i need help with my thin lawn",Yard guidance,Spots or patches
+"how to control crabgrass in summer",Yard guidance,Weed control
+"can i mix your products together",Sunday products,Instructions
+"when to expect soil test results",Sunday products,Soil test
+"my order is incomplete missing items",Subscription,Missing order or item
+"how frequently to water bermuda grass",Yard guidance,Watering
+"help identify my lawn grass type",Yard guidance,Grass types
+"do i need to add product to my plan",Subscription,Modifying plan
+"sprayer not working properly help",Sunday products,Sprayer
+"what to do with sediment in product",Sunday products,Product solidified
+"help me cancel this service",Cancel,Cancel
+"neighbors dog urine killing my grass",Yard guidance,Dog urine spots
+"how do i handle lawn rust disease",Yard guidance,Disease
+"why does my lawn have yellow patches",Yard guidance,Spots or patches
+"need help with my invoice",Subscription,Discounts and transactions
+"how to use weed warrior in spring",Sunday products,Instructions
+"when to fertilize after lawn treatment",Yard guidance,Fertilizer timing
+"does payment info need updating",Subscription,Discounts and transactions
+"what to do in fall for lawn health",Yard guidance,Seasonal changes
+"how to fix bare spots in my lawn",Yard guidance,Spots or patches
+"do you have product for fire ants",Sunday products,Product assortment
+"how to get rid of mosquitoes in yard",Yard guidance,Yard pests
+"how often to cut grass in spring",Yard guidance,Mowing
+"best way to get rid of moss in lawn",Yard guidance,Disease
+"what should i do if it rains after application",Sunday products,Instructions
+"is it ok to use pet safe ice melt on lawn",Yard guidance,Seasonal changes
+"sprayer keeps clogging what to do",Sunday products,Sprayer
+"how to contact customer suport",Other,Customer service agent
+"payment didnt go thru needs update",Subscription,Discounts and transactions
+"what is causing brown rings in grass",Yard guidance,Disease
+"when is good time to plant new lawn",Yard guidance,Seeding
+"my yard gets very soggy what to do",Yard guidance,Soil problems
+"product leaked in the container",Sunday products,Product solidified
+"need to cancel subscription immediately",Cancel,Cancel
+"how to get rid of mole tunnels",Yard guidance,Vertebrate pests
+"can i add weed control to my order",Subscription,Modifying plan
+"how to get healthier thicker grass",Yard guidance,Spots or patches
+"missed order what do i do",Subscription,Missing order or item
+"when will soil test results be ready",Sunday products,Soil test
+"can I seed over existing lawn",Yard guidance,Seeding
+"how to applyy weed killer correctly",Sunday products,Instructions
+"product spilled need replacement",Subscription,Missing order or item
+"how to make grass greener fast",Yard guidance,Fertilizer timing
+"when to apply pre-emergent in texas",Yard guidance,Weed control
+"is it safe for animals after application",Sunday products,Safety
+"what does fall fortify do",Sunday products,Instructions
+"Cancelling my plan please help",Cancel,Cancel
+"how to fix lawn after dog damage",Yard guidance,Dog urine spots
+"need to change my shipment date",Subscription,Next shipment
+"which grass seed for full sun",Yard guidance,Grass types
+"how do i kill lawn grubs",Yard guidance,Insects
+"yellow spots after fertilizing",Yard guidance,Spots or patches
+"what to do about clay soil",Yard guidance,Soil problems
+"instructions for using grass seed",Sunday products,Instructions
+"good morning sunny what should i do about brown spots",Other,Greeting
+"can i use last years leftover product",Sunday products,Longevity
+"how to care for new grass seed",Yard guidance,Seeding
+"what do i do if i missed an application",Sunday products,Missed applications
+"can i get credit for damaged product",Subscription,Refunds or credits
+"is it ok to mow after applying weed control",Sunday products,Instructions
+"how to deal with ant hills in lawn",Yard guidance,Yard pests
+"need to change my payment method",Subscription,Discounts and transactions
+"help understanding soil test results",Sunday products,Soil test
+"is your fertilizer pet safe",Sunday products,Safety
+"what time of day is best to fertilize",Yard guidance,Fertilizer timing
+"when to apply core seagreen",Sunday products,Instructions
+"need to talk to support team",Other,Customer service agent
+"lawn is bumpy and uneven",Yard guidance,Soil problems
+"how to stop flea infestation in yard",Yard guidance,Yard pests
+"what does weed warrior treat",Sunday products,Instructions
+"grass seed not germinating well",Yard guidance,Seeding
+"need to update billing address",Other,Moving
+"is product safe for vegetable garden",Sunday products,Safety
+"what's the best height to cut st augustine",Yard guidance,Mowing
+"can i use sunday with my irrigation system",Sunday products,Instructions
+"my lawn is thin in shady areas",Yard guidance,Spots or patches
+"questions about my next order",Subscription,Next shipment
+"wanting to stop my service",Cancel,Cancel
+"does your product kill clover",Sunday products,Instructions
+"how to identify diseases in lawn",Yard guidance,Disease
+"is grass powerhouse good for bermuda",Sunday products,Instructions
+"when to water newly planted grass seed",Yard guidance,Seeding
+"wet spots in my yard what to do",Yard guidance,Soil problems
+"how soon after weed killer can I seed",Yard guidance,Weed control
+"what causes thin grass in spots",Yard guidance,Spots or patches
+"need to change my plan for smaller yard",Subscription,Lawn size
+"billing issue with my subscription",Subscription,Discounts and transactions
+"when to fertilize new grass",Yard guidance,Fertilizer timing
+"what insects are damaging my lawn",Yard guidance,Insects
+"squirrels digging holes in lawn",Yard guidance,Vertebrate pests
+"how to keep my lawn green year round",Yard guidance,Seasonal changes
+"what products are good for shady lawn",Sunday products,Product assortment
+"can I get refund on my last order",Subscription,Refunds or credits
+"when should I aerate clay soil",Yard guidance,Aerification
+"how do i setup my sprayer",Sunday products,Sprayer
+"need to cancel my sunday subscription",Cancel,Cancel
+"best time to weed and feed lawn",Yard guidance,Weed control
+"how to fix lawn after winter",Yard guidance,Seasonal changes
+"is potassium boost good for summer",Sunday products,Instructions
+"box arrived without weed warrior",Subscription,Missing order or item
+"how to identify lawn grass types",Yard guidance,Grass types
+"what time of day is best to water lawn",Yard guidance,Watering
+"subscription auto renewal question",Subscription,Renewal
+"what causes lawn to be lumpy",Yard guidance,Soil problems
+"can i water immediately after seeding",Yard guidance,Seeding
+"need a duplicate invoice",Subscription,Discounts and transactions
+"should i bag grass clippings",Yard guidance,Mowing
+"is it too late to apply pre emergent",Yard guidance,Weed control
+"when to apply fertilizer in spring",Yard guidance,Fertilizer timing
+"how to deal with voles in yard",Yard guidance,Vertebrate pests
+"when will i get my spring shipment",Subscription,Next shipment
+"is it safe for kids to play on treated lawn",Sunday products,Safety
+"how much to water after fertilizing",Yard guidance,Watering
+"need help identifying this weed",Yard guidance,Weed control
+"should i fertilize before or after mowing",Yard guidance,Fertilizer timing
+"my lawn is too thin need help",Yard guidance,Spots or patches
+"how to get rid of fire ants in lawn",Yard guidance,Yard pests
+"what's in the fall lawn box",Subscription,Next shipment
+"missed fertilizer application window",Sunday products,Missed applications
+"when to seed warm season grass",Yard guidance,Seeding
+"how to stop automatic renewal",Subscription,Renewal
+"need to cancel my plan now",Cancel,Cancel
+"can i store products over winter",Sunday products,Longevity
+"what should i do for spring lawn prep",Yard guidance,Seasonal changes
+"need help with brown spots in lawn",Yard guidance,Spots or patches
+"sprayer wont work properly",Sunday products,Sprayer
+"help treating grub problem in lawn",Yard guidance,Insects
+"how to fix compaction in yard",Yard guidance,Soil problems
+"whats the coverage area of grass powerhouse",Sunday products,Instructions
+"how long to keep pets off treated lawn",Sunday products,Safety
+"soil test instructions unclear",Sunday products,Soil test
+"can i apply weed killer before rain",Yard guidance,Weed control
+"need to pause my plan for winter",Subscription,Pause
+"what does fall fortify actually do",Sunday products,Instructions
+"help with payment processing",Subscription,Discounts and transactions
+"how to deal with red thread disease",Yard guidance,Disease
+"help with lawn thatch problem",Yard guidance,Soil problems
+"how to fix lawn after construction",Yard guidance,Spots or patches
+"how to apply weed warrior correctly",Sunday products,Instructions
+"is pet spot repair safe for dogs",Sunday products,Safety
+"what is the timing for next shipment",Subscription,Next shipment
+"need to downsize my lawn plan",Subscription,Lawn size
+"can't seem to get rid of clover",Yard guidance,Weed control
+"product instructions are confusing",Sunday products,Instructions
+"do you offer product for ticks",Sunday products,Product assortment
+"help me get lawn ready for summer",Yard guidance,Seasonal changes
+"missing my order need tracking info",Subscription,Missing order or item
+"should i dethatch before aerating",Yard guidance,Aerification
+"best time to mow after rain",Yard guidance,Mowing
+"do you offer product for mosquitoes",Sunday products,Product assortment
+"good afternoon sunny need help with my lawn",Other,Greeting
+"when will my payment be processed",Subscription,Renewal
+"should i use dandelion doom on clover",Sunday products,Instructions
+"help repairing lawn after winter",Yard guidance,Seasonal changes
+"i think i need to cancel my plan",Cancel,Cancel
+"how often to apply weed control",Yard guidance,Weed control
+"when to put down grass seed in fall",Yard guidance,Seeding
+"how to store unused fertilizer",Sunday products,Longevity
+"how to clear fleas from my yard",Yard guidance,Yard pests
+"what is good watering schedule for zoysia",Yard guidance,Watering
+"how to repair bald spots in lawn",Yard guidance,Spots or patches
+"what products are good for st augustine",Sunday products,Product assortment
+"what to do about lawn mushrooms",Yard guidance,Disease
+"will it rain after i apply product",Yard guidance,Fertilizer timing
+"how to fix my rocky soil",Yard guidance,Soil problems
+"help identifying my lawn disease",Yard guidance,Disease
+"fertilizer solidified in pouch",Sunday products,Product solidified
+"want to reduce size of my plan",Subscription,Lawn size
+"best way to grow veggies in yard",Yard guidance,Garden plant care

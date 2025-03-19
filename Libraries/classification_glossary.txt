@@ -1,0 +1,15 @@
+Accuracy - The overall proportion of correct predictions (both true positives and true negatives) over the total number of predictions.
+Precision (Positive Predictive Value) - The proportion of true positive predictions among all positive predictions. Shows how reliable positive classifications are.
+Recall (Sensitivity, True Positive Rate) - The proportion of actual positives that were correctly identified. Shows how well the classifier finds all positive cases.
+F1 Score - The harmonic mean of precision and recall, providing a balance between the two, especially useful for imbalanced datasets.
+Area Under ROC Curve (AUC-ROC) - Measures the classifier's ability to discriminate between classes across various thresholds.
+Confusion Matrix - A table showing true positives, false positives, true negatives, and false negatives.
+Specificity (True Negative Rate) - The proportion of actual negatives correctly identified.
+False Positive Rate - The proportion of actual negatives incorrectly classified as positive.
+Classification Threshold - The decision boundary used to determine class assignment.
+Class Distribution - Information about the balance or imbalance of classes in your dataset.
+Model Confidence/Probability Scores - The probability estimates for predictions rather than just the final classifications.
+Training/Testing Performance Gap - Indicates potential overfitting or underfitting.
+Feature Importance - Which features have the greatest impact on classification outcomes.
+Cross-Validation Results - Performance metrics across multiple data splits.
+Runtime/Inference Speed - How quickly the classifier makes predictions.

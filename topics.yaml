@@ -1,0 +1,86 @@
+topic_classification:
+  Yard guidance:
+    - title: Watering
+      description: How much to water, how often to water, routine irrigation and watering, how to water at different times of the year, note this does not include watering relative to seeding or fertilizing, help with watering restrictions
+    - title: Aerification
+      description: When to aerify lawn, how often to aerate, note the product 'Core Endurance' is referring to a fertilizer and not referring to core aeration
+    - title: Seasonal changes
+      description: What to do now for the lawn or garden, how to prep for upcoming seasons like winter dormancy or spring growth
+    - title: Mowing
+      description: How often to mow, how short to cut grass, how to mow at different times of the year, mowing best practices, how to mow with different grass types
+    - title: Seeding
+      description: When to seed lawn, best time to seed, unique seeding dates for the user, choosing the right grass seed for the lawn, recommendations for seed, best grass or seed types for lawn, identify grass in the lawn, seeding preparation, how to seed, step by step how to seed, seeding best practices, care after seeding to be successful, troubleshooting and problem solving seeding and germination issues, poor seed growth, conditions affecting seeding success
+    - title: Fertilizer timing
+      description: Timing for fertilizer or nutrient applications, when to apply fertilizer, timing fertilizer late in the season, timing with weather like frost or rain events
+    - title: Weed control
+      description: When to treat weeds, best time to treat weeds, unique weed treatment dates for the user, timing weed control with weather, choosing the right weed control product, preemergent weed control, recommendations for weed control, best weed control products for lawn, how to eliminate or prevent specific weeds or weeds in general, how to address weed issues, identifying weeds in the lawn, what are the weeds in the lawn, how to identify weeds, note weeds includes broadleaves, sedges, grass weeds, and moss
+    - title: Spots or patches
+      description: How to address spots or patches in the lawn, brown or yellow patches, thinning grass, dying grass, bare spots
+    - title: Soil problems
+      description: Soil quality or drainage issues, soil questions related to lawn health, hard or compacted soil
+    - title: Insects
+      description: Insect pests of lawns or gardens, grubs, armyworms, chinch bugs, how to address insect issues
+    - title: Disease
+      description: Lawn or garden diseases, large patch or brown patch, mushrooms in lawns, how to address or prevent diseases
+    - title: Vertebrate pests
+      description: Animals or pests that damage lawns, moles, voles, rabbits, deer, how to address vertebrate pests
+    - title: Yard pests
+      description: Pests like ants, mosquitoes, ticks, fleas, how to address yard pests that affect humans or pets
+    - title: Dog urine spots
+      description: How to address dog urine spots in the lawn, how to prevent dog urine spots
+    - title: Garden plant care
+      description: Garden plants like vegetables, flowers, or shrubs, how to care for garden plants, how to grow vegetables or flowers, how to address issues with garden plants, how to grow a garden, how to care for a garden, how to grow specific plants in the garden
+    - title: Grass types
+      description: Lawn grass identification, guidance for managing a specific lawn grass species, not grassy weeds
+
+  Sunday products:
+    - title: Instructions
+      description: What to do with received product, how to apply or use individual products, how to use sprayers with hose, how to use up the product in the container, how much a product covers, where to apply product, sequence of Sunday product applications, order or sequence or steps of using provided products like fertilizer (e.g. Grass Powerhouse, Fall Fortify, Potassium Boost, Core Seagreen), weed control (e.g. Dandelion Doom, Weed Warrior), or grass seed, how to use products in the right order, sequence of Sunday product applications with other lawn care practices, how to time Sunday products with other lawn care practices like watering, aerating, or mowing, using Sunday products with non-Sunday lawn and garden products
+    - title: Soil test
+      description: Missing shipping labels for soil tests, unclear or confusion about soil test packaging, how to package soil test, soil test packaging and labels, how to conduct the soil test and mail, soil sample status, results and analysis status, shipment tracking soil sample, time to see results of soil test mailed in
+    - title: Safety
+      description: Product safety for pets, especially dogs, when it's safe to go on lawn after application, toxicity or exposure concerns
+    - title: Missed applications
+      description: What to do if a Sunday product application is missed, missed applications or missed treatments, how to adjust plan to accommodate missed treatments, how to catch up on treatments or steps, what to do if missed or fell behind on scheduled applications
+    - title: No improvement
+      description: Unexpected results after using products, problems as a result of applying products, no visible improvement after using product, product efficacy
+    - title: Longevity
+      description: Product longevity, storing for future use, if products can be used next year, not product effectiveness
+    - title: Sprayer
+      description: Sprayer not working, need a new sprayer, sprayer or nozzle is clogged
+    - title: Product solidified
+      description: Product like liquid pouches are solidified or have sediment, product not dispensing properly due to solidification
+    - title: Product assortment
+      description: Product assortment or variety, what products Sunday offers
+
+  Subscription:
+    - title: Pause
+      description: Request to pause or suspend subscription, pause shipments
+    - title: Refunds or credits
+      description: Request for refund or credit, refund policy, how to get a refund
+    - title: Discounts and transactions
+      description: Discounts and promotions, eligibility for discounts, how to apply discounts, unable to check out, unable to apply discounts, payment processing issue, need help with order processing
+    - title: Renewal
+      description: Purchase or renew next year's plan, reorder or renewal timing, how renewal works, future costs and billing, what is in next year's plan, products in next year's plan, renewal cost and cost breakdown
+    - title: Modifying plan
+      description: Modifying subscription plan, adding or removing products, what my plan includes, is a given product part of my plan
+    - title: Next shipment
+      description: What is in the next shipment, when is the next shipment scheduled, order status, tracking number
+    - title: Missing order or item
+      description: Missing entire shipment or box, missing order, missing item within an order, missing product within a shipment or box
+    - title: Lawn size
+      description: Determining or confirming lawn size or yard size, updating or correcting lawn size
+
+  Cancel:
+    - title: Cancel
+      description: Request to cancel plan or cancel subscription
+
+  Other:
+    - title: Customer service agent
+      description: Request to speak with customer service agent or staff person, contact support, help desk, talk to a person
+    - title: Moving
+      description: Customer is moving and needs to update address
+    - title: Greeting
+      description: Greeting or salutation, hello, hi, good morning, good afternoon, good evening, note the assistant is named Sunny
+    - title: Other
+      description: Anything not covered by the other topics

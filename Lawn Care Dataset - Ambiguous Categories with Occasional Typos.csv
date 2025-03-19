@@ -1,0 +1,31 @@
+query,category1,subcategory1,category2,subcategory2
+"when should I apply weed control and should I cancel if it doesn't work",Yard guidance,Weed control,Cancel,Cancel
+"I need to know when to water after applying your fertilizer",Yard guidance,Watering,Sunday products,Instructions
+"My order is missing and I want to cancel",Subscription,Missing order or item,Cancel,Cancel
+"Hi Sunny can you tell me what fertilizer is best for my lawn type",Other,Greeting,Yard guidance,Fertilizer timing
+"How to use the soil test kit and when to send it back",Sunday products,Soil test,Sunday products,Instructions
+"Is the weed control in my next shipment safe for pets",Subscription,Next shipment,Sunday products,Safety
+"I missed my application window can I still use the product",Sunday products,Missed applications,Sunday products,Instructions
+"Need help fixing patches in lawn with your seed product",Yard guidance,Spots or patches,Sunday products,Instructions
+"how do I change my lawn size in my subscription",Subscription,Lawn size,Subscription,Modifying plan
+"what to do if product doesn't work and I want a refund",Sunday products,No improvement,Subscription,Refunds or credits
+"dog peed on lawn after I applied fertilizer will it still work",Yard guidance,Dog urine spots,Sunday products,Instructions
+"can I cancel my subscription if my lawn doesn't improve",Sunday products,No improvement,Cancel,Cancel
+"moving to new house need to adjust my plan for different lawn size",Other,Moving,Subscription,Lawn size
+"seeding instructions and what comes in next shipment",Sunday products,Instructions,Subscription,Next shipment
+"best time to apply weed control in my plan",Yard guidance,Weed control,Subscription,Modifying plan
+"when to water after using your weed product",Yard guidance,Watering,Sunday products,Instructions
+"should I add pre-emergent to my plan for crabgrass control",Yard guidance,Weed control,Subscription,Modifying plan
+"my shipment missing weed control need to know how to control weeds now",Subscription,Missing order or item,Yard guidance,Weed control
+"fertilizer arrived solidified what should I do to make it work",Sunday products,Product solidified,Sunday products,Instructions
+"how to apply product after missed delivery",Subscription,Missing order or item,Sunday products,Instructions
+"how long to store unopened products if I decide to pause my subscription",Sunday products,Longevity,Subscription,Pause
+"hello can I get a refund for product that didn't fix my brown patches",Other,Greeting,Subscription,Refunds or credits
+"when will my renewal happen and what seasonal changes should I prepare for",Subscription,Renewal,Yard guidance,Seasonal changes
+"can I cancel if my lawn has no improvement after application",Sunday products,No improvement,Cancel,Cancel
+"what's the best grass seed in your product line",Sunday products,Product assortment,Yard guidance,Grass types
+"customer support needed about my missing order",Other,Customer service agent,Subscription,Missing order or item
+"hi there, when should I apply fertilizer that was in my last shipment",Other,Greeting,Sunday products,Instructions
+"is it safe to mow after applying your weed product",Sunday products,Safety,Yard guidance,Mowing
+"need my soil test results to know which products to add to my plan",Sunday products,Soil test,Subscription,Modifying plan
+"want to pause subscription until next spring what should I do with current products",Subscription,Pause,Sunday products,Longevity

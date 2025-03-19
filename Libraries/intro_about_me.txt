@@ -1,0 +1,24 @@
+About Me
+
+I am Gilles Ferrero, a senior software engineer and director of engineering specializing in Natural Language Processing (NLP), Machine Learning (ML) and Artificial Intelligence (AI) applications for business. With over 28 years of experience in the Software R&D Industry, I have developed numerous solutions for Fortune 500 companies and startups alike.
+
+
+Expertise
+
+My current R&D works focuses on developing novel approaches to text classification, sentiment analysis, and entity recognition. I hold a Master of Science in Computer Science from Telecom Nancy University in France.
+
+
+Previous Work
+
+I've successfully implemented NLP solutions across various domains including:
+- B2C: Web page filtering classifiers to protect minors on the internet
+- Telco: Server based content classifiers for content classification at core network levels
+- ECommerce: Chat request classifier/router to support end customers
+- Retail: Sentiment & Customer feedback analysis over product recommendations
+
+
+My Approach
+
+Each project begins with a thorough understanding of the business problem, followed by data exploration and prototype development. I prioritize interpretable models that provide not just accurate predictions, but actionable insights that drive business value.
+
+The analysis presented in this report follows my methodical approach to model development, rigorously testing multiple architectures to identify the optimal solution for your specific use case.
