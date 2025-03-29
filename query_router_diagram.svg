@@ -1,0 +1,105 @@
+<svg viewBox="0 0 1000 625" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1000" height="625" fill="#f8f9fa" rx="5" ry="5"/>
+  <text x="500" y="35" font-family="Arial" font-size="24" text-anchor="middle" font-weight="bold">Lawn Care Query Router System Architecture</text>
+  
+  <!-- Input Section -->
+  <rect x="50" y="80" width="200" height="260" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="5" ry="5"/>
+  <text x="150" y="110" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">INPUTS</text>
+  
+  <!-- Input files -->
+  <rect x="70" y="130" width="160" height="40" fill="#bbdefb" stroke="#1e88e5" stroke-width="1" rx="3" ry="3"/>
+  <text x="150" y="155" font-family="Arial" font-size="14" text-anchor="middle">topics.yaml</text>
+  
+  <rect x="70" y="180" width="160" height="40" fill="#bbdefb" stroke="#1e88e5" stroke-width="1" rx="3" ry="3"/>
+  <text x="150" y="205" font-family="Arial" font-size="14" text-anchor="middle">Test Queries CSV</text>
+  
+  <rect x="70" y="230" width="160" height="40" fill="#bbdefb" stroke="#1e88e5" stroke-width="1" rx="3" ry="3"/>
+  <text x="150" y="255" font-family="Arial" font-size="14" text-anchor="middle">38 Topic Categories</text>
+  
+  <rect x="70" y="280" width="160" height="40" fill="#bbdefb" stroke="#1e88e5" stroke-width="1" rx="3" ry="3"/>
+  <text x="150" y="305" font-family="Arial" font-size="14" text-anchor="middle">485 Test Queries</text>
+  
+  <!-- Processing Section -->
+  <rect x="300" y="80" width="400" height="400" fill="#e8f5e9" stroke="#4caf50" stroke-width="2" rx="5" ry="5"/>
+  <text x="500" y="110" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">PROCESSING</text>
+  
+  <!-- Topic embeddings -->
+  <rect x="320" y="130" width="160" height="40" fill="#c8e6c9" stroke="#43a047" stroke-width="1" rx="3" ry="3"/>
+  <text x="400" y="155" font-family="Arial" font-size="14" text-anchor="middle">Topic Embeddings</text>
+  
+  <!-- Query embeddings -->
+  <rect x="520" y="130" width="160" height="40" fill="#c8e6c9" stroke="#43a047" stroke-width="1" rx="3" ry="3"/>
+  <text x="600" y="155" font-family="Arial" font-size="14" text-anchor="middle">Query Embeddings</text>
+  
+  <!-- Models Section -->
+  <rect x="320" y="190" width="360" height="160" fill="#dcedc8" stroke="#8bc34a" stroke-width="1" rx="3" ry="3"/>
+  <text x="500" y="215" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold">Models Evaluated</text>
+  
+  <!-- Model 1 -->
+  <rect x="340" y="230" width="320" height="30" fill="#f1f8e9" stroke="#689f38" stroke-width="1" rx="3" ry="3"/>
+  <text x="350" y="250" font-family="Arial" font-size="14">BERT-base-uncased</text>
+  <text x="630" y="250" font-family="Arial" font-size="14" text-anchor="end">36.29% accuracy</text>
+  
+  <!-- Model 2 -->
+  <rect x="340" y="270" width="320" height="30" fill="#f1f8e9" stroke="#689f38" stroke-width="1" rx="3" ry="3"/>
+  <text x="350" y="290" font-family="Arial" font-size="14">BERT-mini (prajjwal1)</text>
+  <text x="630" y="290" font-family="Arial" font-size="14" text-anchor="end">35.46% accuracy</text>
+  
+  <!-- Model 3 (best) -->
+  <rect x="340" y="310" width="320" height="30" fill="#81c784" stroke="#2e7d32" stroke-width="2" rx="3" ry="3"/>
+  <text x="350" y="330" font-family="Arial" font-size="14" font-weight="bold">all-MiniLM-L6-v2 (RECOMMENDED)</text>
+  <text x="630" y="330" font-family="Arial" font-size="14" font-weight="bold" text-anchor="end">61.86% accuracy</text>
+  
+  <!-- Similarity Calculation -->
+  <rect x="320" y="360" width="360" height="40" fill="#c8e6c9" stroke="#43a047" stroke-width="1" rx="3" ry="3"/>
+  <text x="500" y="385" font-family="Arial" font-size="14" text-anchor="middle">Cosine Similarity Classification</text>
+  
+  <!-- Performance Metrics -->
+  <rect x="320" y="410" width="360" height="60" fill="#a5d6a7" stroke="#388e3c" stroke-width="1" rx="3" ry="3"/>
+  <text x="500" y="430" font-family="Arial" font-size="14" text-anchor="middle" font-weight="bold">Top 3 Performance Indicators (MiniLM)</text>
+  <text x="370" y="455" font-family="Arial" font-size="14">• Category Accuracy: 83.51%</text>
+  <text x="500" y="455" font-family="Arial" font-size="14">• Cat+Subcat: 61.86%</text>
+  <text x="630" y="455" font-family="Arial" font-size="14">• Speed: 42.52 q/s</text>
+  
+  <!-- Output Section -->
+  <rect x="750" y="80" width="200" height="280" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="5" ry="5"/>
+  <text x="850" y="110" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">OUTPUTS</text>
+  
+  <!-- Output files -->
+  <rect x="770" y="130" width="160" height="40" fill="#ffe0b2" stroke="#f57c00" stroke-width="1" rx="3" ry="3"/>
+  <text x="850" y="155" font-family="Arial" font-size="14" text-anchor="middle">Model Comparison</text>
+  
+  <rect x="770" y="180" width="160" height="40" fill="#ffe0b2" stroke="#f57c00" stroke-width="1" rx="3" ry="3"/>
+  <text x="850" y="205" font-family="Arial" font-size="14" text-anchor="middle">Confusion Matrices</text>
+  
+  <rect x="770" y="230" width="160" height="40" fill="#ffe0b2" stroke="#f57c00" stroke-width="1" rx="3" ry="3"/>
+  <text x="850" y="255" font-family="Arial" font-size="14" text-anchor="middle">Error Analysis</text>
+  
+  <rect x="770" y="280" width="160" height="40" fill="#ffe0b2" stroke="#f57c00" stroke-width="1" rx="3" ry="3"/>
+  <text x="850" y="305" font-family="Arial" font-size="14" text-anchor="middle">Excel Reports</text>
+  
+  <!-- Flow Arrows -->
+  <path d="M 255 210 L 295 210" stroke="#2196f3" stroke-width="2" stroke-dasharray="5,5" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 705 210 L 745 210" stroke="#ff9800" stroke-width="2" stroke-dasharray="5,5" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Practical Application -->
+  <rect x="300" y="500" width="400" height="100" fill="#e1f5fe" stroke="#03a9f4" stroke-width="2" rx="5" ry="5"/>
+  <text x="500" y="530" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">BUSINESS IMPACT</text>
+  <text x="500" y="560" font-family="Arial" font-size="14" text-anchor="middle">Improved customer satisfaction through accurate query routing</text>
+  <text x="500" y="580" font-family="Arial" font-size="14" text-anchor="middle">Reduced support overhead with 42+ queries processed per second</text>
+  
+  <!-- Legend -->
+  <rect x="750" y="500" width="200" height="100" fill="#f5f5f5" stroke="#9e9e9e" stroke-width="1" rx="5" ry="5"/>
+  <text x="850" y="525" font-family="Arial" font-size="14" text-anchor="middle" font-weight="bold">Key Features</text>
+  <text x="760" y="550" font-family="Arial" font-size="12">• Zero-shot classification</text>
+  <text x="760" y="570" font-family="Arial" font-size="12">• Hierarchical categorization</text>
+  <text x="760" y="590" font-family="Arial" font-size="12">• Semantic similarity matching</text>
+  
+  <!-- Arrow Definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333"/>
+    </marker>
+  </defs>
+</svg>

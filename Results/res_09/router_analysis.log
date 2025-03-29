@@ -1,0 +1,67 @@
+2025-03-29 08:09:10,176 - INFO - Logger initialized. Writing to ./Results/res_09/router_analysis.log
+2025-03-29 08:09:10,176 - INFO - Starting query router analysis
+2025-03-29 08:09:10,177 - INFO - Models to test: ['bert-base-uncased', 'prajjwal1/bert-mini', 'all-MiniLM-L6-v2']
+2025-03-29 08:09:10,177 - INFO - Loading glossary from Libraries/classification_glossary.txt
+2025-03-29 08:09:10,177 - INFO - Loading topics from topics.yaml
+2025-03-29 08:09:10,197 - INFO - Loaded 38 topics
+2025-03-29 08:09:10,197 - INFO - Creating topic texts for embeddings
+2025-03-29 08:09:10,202 - INFO - Processing model: bert-base-uncased
+2025-03-29 08:09:10,202 - INFO - Loading model: bert-base-uncased
+2025-03-29 08:09:15,668 - INFO - Generating topic embeddings
+2025-03-29 08:09:34,363 - INFO - Finding close categories with 90% threshold for bert-base-uncased
+2025-03-29 08:09:34,364 - INFO - Using a similarity threshold of 90% to identify closely related categories.
+2025-03-29 08:09:34,575 - INFO - Loading CSV data from Lawn Care Dataset - Clear Categories with Occasional Typos.csv
+2025-03-29 08:09:34,581 - INFO - Classifying queries with model: bert-base-uncased
+2025-03-29 08:09:34,581 - INFO - Classifying queries using model: bert-base-uncased
+2025-03-29 08:09:36,957 - INFO - Processing first 10 queries
+2025-03-29 08:09:37,790 - INFO - Time for first 10 queries: 0.83 seconds
+2025-03-29 08:09:37,790 - INFO - Processing middle queries
+2025-03-29 08:09:49,983 - INFO - Processing last 10 queries
+2025-03-29 08:09:50,787 - INFO - Time for last 10 queries: 0.80 seconds
+2025-03-29 08:09:50,787 - INFO - Classified 485 queries in total
+2025-03-29 08:09:50,811 - INFO - Creating confusion matrices
+2025-03-29 08:09:53,418 - INFO - Analyzing errors
+2025-03-29 08:09:53,796 - INFO - Exporting results to Excel
+2025-03-29 08:09:53,796 - INFO - Creating Excel file: ./Results/res_09/Results for model bert-base-uncased.xlsx
+2025-03-29 08:09:53,943 - INFO - Exported results to Excel: ./Results/res_09/Results for model bert-base-uncased.xlsx
+2025-03-29 08:09:53,943 - INFO - Processing model: prajjwal1/bert-mini
+2025-03-29 08:09:53,943 - INFO - Loading model: prajjwal1/bert-mini
+2025-03-29 08:10:24,271 - INFO - Generating topic embeddings
+2025-03-29 08:10:25,980 - INFO - Finding close categories with 90% threshold for prajjwal1/bert-mini
+2025-03-29 08:10:25,980 - INFO - Using a similarity threshold of 90% to identify closely related categories.
+2025-03-29 08:10:26,150 - INFO - Loading CSV data from Lawn Care Dataset - Clear Categories with Occasional Typos.csv
+2025-03-29 08:10:26,153 - INFO - Classifying queries with model: prajjwal1/bert-mini
+2025-03-29 08:10:26,153 - INFO - Classifying queries using model: prajjwal1/bert-mini
+2025-03-29 08:10:31,604 - INFO - Processing first 10 queries
+2025-03-29 08:10:31,844 - INFO - Time for first 10 queries: 0.24 seconds
+2025-03-29 08:10:31,844 - INFO - Processing middle queries
+2025-03-29 08:10:33,916 - INFO - Processing last 10 queries
+2025-03-29 08:10:34,132 - INFO - Time for last 10 queries: 0.22 seconds
+2025-03-29 08:10:34,132 - INFO - Classified 485 queries in total
+2025-03-29 08:10:34,148 - INFO - Creating confusion matrices
+2025-03-29 08:10:36,872 - INFO - Analyzing errors
+2025-03-29 08:10:37,271 - INFO - Exporting results to Excel
+2025-03-29 08:10:37,271 - INFO - Creating Excel file: ./Results/res_09/Results for model prajjwal1-bert-mini.xlsx
+2025-03-29 08:10:37,387 - INFO - Exported results to Excel: ./Results/res_09/Results for model prajjwal1-bert-mini.xlsx
+2025-03-29 08:10:37,388 - INFO - Processing model: all-MiniLM-L6-v2
+2025-03-29 08:10:37,388 - INFO - Loading model: all-MiniLM-L6-v2
+2025-03-29 08:10:41,287 - INFO - Generating topic embeddings
+2025-03-29 08:10:46,385 - INFO - Finding close categories with 90% threshold for all-MiniLM-L6-v2
+2025-03-29 08:10:46,386 - INFO - Using a similarity threshold of 90% to identify closely related categories.
+2025-03-29 08:10:46,580 - INFO - Loading CSV data from Lawn Care Dataset - Clear Categories with Occasional Typos.csv
+2025-03-29 08:10:46,583 - INFO - Classifying queries with model: all-MiniLM-L6-v2
+2025-03-29 08:10:46,583 - INFO - Classifying queries using model: all-MiniLM-L6-v2
+2025-03-29 08:10:49,525 - INFO - Processing first 10 queries
+2025-03-29 08:10:49,762 - INFO - Time for first 10 queries: 0.24 seconds
+2025-03-29 08:10:49,762 - INFO - Processing middle queries
+2025-03-29 08:10:52,250 - INFO - Processing last 10 queries
+2025-03-29 08:10:52,484 - INFO - Time for last 10 queries: 0.23 seconds
+2025-03-29 08:10:52,484 - INFO - Classified 485 queries in total
+2025-03-29 08:10:52,500 - INFO - Creating confusion matrices
+2025-03-29 08:10:54,767 - INFO - Analyzing errors
+2025-03-29 08:10:55,096 - INFO - Exporting results to Excel
+2025-03-29 08:10:55,096 - INFO - Creating Excel file: ./Results/res_09/Results for model all-MiniLM-L6-v2.xlsx
+2025-03-29 08:10:55,189 - INFO - Exported results to Excel: ./Results/res_09/Results for model all-MiniLM-L6-v2.xlsx
+2025-03-29 08:10:55,189 - INFO - Creating category-level performance comparison
+2025-03-29 08:10:55,190 - INFO - Creating subcategory-level performance comparison
+2025-03-29 08:10:55,343 - INFO - Report generated: ./Results/res_09/query_router_report.docx

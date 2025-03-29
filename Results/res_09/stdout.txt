@@ -1,0 +1,119 @@
+About Me
+
+I am Gilles Ferrero, a senior software engineer and director of engineering specializing in Natural Language Processing (NLP), Machine Learning (ML) and Artificial Intelligence (AI) applications for business. With over 28 years of experience in the Software R&D Industry, I have developed numerous solutions for Fortune 500 companies and startups alike.
+
+
+Expertise
+
+My current R&D works focuses on developing novel approaches to text classification, sentiment analysis, and entity recognition. I hold a Master of Science in Computer Science from Telecom Nancy University in France.
+
+
+Previous Work
+
+I've successfully implemented NLP solutions across various domains including:
+- B2C: Web page filtering classifiers to protect minors on the internet
+- Telco: Server based content classifiers for content classification at core network levels
+- ECommerce: Chat request classifier/router to support end customers
+- Retail: Sentiment & Customer feedback analysis over product recommendations
+
+
+My Approach
+
+Each project begins with a thorough understanding of the business problem, followed by data exploration and prototype development. I prioritize interpretable models that provide not just accurate predictions, but actionable insights that drive business value.
+
+The analysis presented in this report follows my methodical approach to model development, rigorously testing multiple architectures to identify the optimal solution for your specific use case.
+
+Loaded 38 topics from topics.yaml
+Using a similarity threshold of 90% to identify closely related categories.
+Found 11 pairs of closely related categories.
+95.1%   @@   Yard guidance/Vertebrate pests   ##   Yard guidance/Yard pests
+Animals or pests that damage lawns, moles, voles, rabbits, deer, how to address vertebrate pests   %%   Pests like ants, mosquitoes, ticks, fleas, how to address yard pests that affect humans or pets
+93.6%   @@   Yard guidance/Insects   ##   Yard guidance/Yard pests
+Insect pests of lawns or gardens, grubs, armyworms, chinch bugs, how to address insect issues   %%   Pests like ants, mosquitoes, ticks, fleas, how to address yard pests that affect humans or pets
+93.5%   @@   Yard guidance/Insects   ##   Yard guidance/Vertebrate pests
+Insect pests of lawns or gardens, grubs, armyworms, chinch bugs, how to address insect issues   %%   Animals or pests that damage lawns, moles, voles, rabbits, deer, how to address vertebrate pests
+92.6%   @@   Yard guidance/Spots or patches   ##   Yard guidance/Disease
+How to address spots or patches in the lawn, brown or yellow patches, thinning grass, dying grass, bare spots   %%   Lawn or garden diseases, large patch or brown patch, mushrooms in lawns, how to address or prevent diseases
+92.3%   @@   Yard guidance/Seeding   ##   Yard guidance/Weed control
+When to seed lawn, best time to seed, unique seeding dates for the user, choosing the right grass seed for the lawn, recommendations for seed, best grass or seed types for lawn, identify grass in the lawn, seeding preparation, how to seed, step by step how to seed, seeding best practices, care after seeding to be successful, troubleshooting and problem solving seeding and germination issues, poor seed growth, conditions affecting seeding success   %%   When to treat weeds, best time to treat weeds, unique weed treatment dates for the user, timing weed control with weather, choosing the right weed control product, preemergent weed control, recommendations for weed control, best weed control products for lawn, how to eliminate or prevent specific weeds or weeds in general, how to address weed issues, identifying weeds in the lawn, what are the weeds in the lawn, how to identify weeds, note weeds includes broadleaves, sedges, grass weeds, and moss
+91.8%   @@   Yard guidance/Insects   ##   Yard guidance/Disease
+Insect pests of lawns or gardens, grubs, armyworms, chinch bugs, how to address insect issues   %%   Lawn or garden diseases, large patch or brown patch, mushrooms in lawns, how to address or prevent diseases
+90.8%   @@   Yard guidance/Weed control   ##   Sunday products/Instructions
+When to treat weeds, best time to treat weeds, unique weed treatment dates for the user, timing weed control with weather, choosing the right weed control product, preemergent weed control, recommendations for weed control, best weed control products for lawn, how to eliminate or prevent specific weeds or weeds in general, how to address weed issues, identifying weeds in the lawn, what are the weeds in the lawn, how to identify weeds, note weeds includes broadleaves, sedges, grass weeds, and moss   %%   What to do with received product, how to apply or use individual products, how to use sprayers with hose, how to use up the product in the container, how much a product covers, where to apply product, sequence of Sunday product applications, order or sequence or steps of using provided products like fertilizer (e.g. Grass Powerhouse, Fall Fortify, Potassium Boost, Core Seagreen), weed control (e.g. Dandelion Doom, Weed Warrior), or grass seed, how to use products in the right order, sequence of Sunday product applications with other lawn care practices, how to time Sunday products with other lawn care practices like watering, aerating, or mowing, using Sunday products with non-Sunday lawn and garden products
+90.7%   @@   Yard guidance/Weed control   ##   Yard guidance/Disease
+When to treat weeds, best time to treat weeds, unique weed treatment dates for the user, timing weed control with weather, choosing the right weed control product, preemergent weed control, recommendations for weed control, best weed control products for lawn, how to eliminate or prevent specific weeds or weeds in general, how to address weed issues, identifying weeds in the lawn, what are the weeds in the lawn, how to identify weeds, note weeds includes broadleaves, sedges, grass weeds, and moss   %%   Lawn or garden diseases, large patch or brown patch, mushrooms in lawns, how to address or prevent diseases
+90.7%   @@   Yard guidance/Weed control   ##   Yard guidance/Garden plant care
+When to treat weeds, best time to treat weeds, unique weed treatment dates for the user, timing weed control with weather, choosing the right weed control product, preemergent weed control, recommendations for weed control, best weed control products for lawn, how to eliminate or prevent specific weeds or weeds in general, how to address weed issues, identifying weeds in the lawn, what are the weeds in the lawn, how to identify weeds, note weeds includes broadleaves, sedges, grass weeds, and moss   %%   Garden plants like vegetables, flowers, or shrubs, how to care for garden plants, how to grow vegetables or flowers, how to address issues with garden plants, how to grow a garden, how to care for a garden, how to grow specific plants in the garden
+90.4%   @@   Yard guidance/Disease   ##   Yard guidance/Grass types
+Lawn or garden diseases, large patch or brown patch, mushrooms in lawns, how to address or prevent diseases   %%   Lawn grass identification, guidance for managing a specific lawn grass species, not grassy weeds
+90.2%   @@   Yard guidance/Soil problems   ##   Yard guidance/Disease
+Soil quality or drainage issues, soil questions related to lawn health, hard or compacted soil   %%   Lawn or garden diseases, large patch or brown patch, mushrooms in lawns, how to address or prevent diseases
+
+Detailed close category analysis saved to: ./Results/res_09/bert-base-uncased_close_categories.csv
+Loaded 485 test queries from Lawn Care Dataset - Clear Categories with Occasional Typos.csv
+Time for first 10 queries: 0.8320 seconds
+Time for last 10 queries: 0.8041 seconds
+Average time per query: 0.0818 seconds
+Queries per second: 12.22
+Category accuracy: 76.29%
+Category+Subcategory accuracy: 36.29%
+Number of category errors: 115
+Number of subcategory errors: 194
+Number of correct classifications: 176
+Detailed results exported to: ./Results/res_09/Results for model bert-base-uncased.xlsx
+Using a similarity threshold of 90% to identify closely related categories.
+Found 4 pairs of closely related categories.
+94.9%   @@   Yard guidance/Vertebrate pests   ##   Yard guidance/Yard pests
+Animals or pests that damage lawns, moles, voles, rabbits, deer, how to address vertebrate pests   %%   Pests like ants, mosquitoes, ticks, fleas, how to address yard pests that affect humans or pets
+94.1%   @@   Yard guidance/Insects   ##   Yard guidance/Yard pests
+Insect pests of lawns or gardens, grubs, armyworms, chinch bugs, how to address insect issues   %%   Pests like ants, mosquitoes, ticks, fleas, how to address yard pests that affect humans or pets
+93.9%   @@   Yard guidance/Insects   ##   Yard guidance/Vertebrate pests
+Insect pests of lawns or gardens, grubs, armyworms, chinch bugs, how to address insect issues   %%   Animals or pests that damage lawns, moles, voles, rabbits, deer, how to address vertebrate pests
+90.8%   @@   Yard guidance/Weed control   ##   Sunday products/Instructions
+When to treat weeds, best time to treat weeds, unique weed treatment dates for the user, timing weed control with weather, choosing the right weed control product, preemergent weed control, recommendations for weed control, best weed control products for lawn, how to eliminate or prevent specific weeds or weeds in general, how to address weed issues, identifying weeds in the lawn, what are the weeds in the lawn, how to identify weeds, note weeds includes broadleaves, sedges, grass weeds, and moss   %%   What to do with received product, how to apply or use individual products, how to use sprayers with hose, how to use up the product in the container, how much a product covers, where to apply product, sequence of Sunday product applications, order or sequence or steps of using provided products like fertilizer (e.g. Grass Powerhouse, Fall Fortify, Potassium Boost, Core Seagreen), weed control (e.g. Dandelion Doom, Weed Warrior), or grass seed, how to use products in the right order, sequence of Sunday product applications with other lawn care practices, how to time Sunday products with other lawn care practices like watering, aerating, or mowing, using Sunday products with non-Sunday lawn and garden products
+
+Detailed close category analysis saved to: ./Results/res_09/prajjwal1-bert-mini_close_categories.csv
+Loaded 485 test queries from Lawn Care Dataset - Clear Categories with Occasional Typos.csv
+Time for first 10 queries: 0.2396 seconds
+Time for last 10 queries: 0.2163 seconds
+Average time per query: 0.0228 seconds
+Queries per second: 43.87
+Category accuracy: 72.16%
+Category+Subcategory accuracy: 35.46%
+Number of category errors: 135
+Number of subcategory errors: 178
+Number of correct classifications: 172
+Detailed results exported to: ./Results/res_09/Results for model prajjwal1-bert-mini.xlsx
+Using a similarity threshold of 90% to identify closely related categories.
+No closely related categories found with the current threshold.
+Consider lowering the threshold if you expect to find similar categories.
+Loaded 485 test queries from Lawn Care Dataset - Clear Categories with Occasional Typos.csv
+Time for first 10 queries: 0.2367 seconds
+Time for last 10 queries: 0.2336 seconds
+Average time per query: 0.0235 seconds
+Queries per second: 42.52
+Category accuracy: 83.51%
+Category+Subcategory accuracy: 61.86%
+Number of category errors: 80
+Number of subcategory errors: 105
+Number of correct classifications: 300
+Detailed results exported to: ./Results/res_09/Results for model all-MiniLM-L6-v2.xlsx
+This comparison shows model performance at the CATEGORY level only (ignoring subcategories):
+This comparison shows model performance at the CATEGORY+SUBCATEGORY level (both must be correct):
+Total execution time: 105.01 seconds
+Accuracy - The overall proportion of correct predictions (both true positives and true negatives) over the total number of predictions.
+Precision (Positive Predictive Value) - The proportion of true positive predictions among all positive predictions. Shows how reliable positive classifications are.
+Recall (Sensitivity, True Positive Rate) - The proportion of actual positives that were correctly identified. Shows how well the classifier finds all positive cases.
+F1 Score - The harmonic mean of precision and recall, providing a balance between the two, especially useful for imbalanced datasets.
+Area Under ROC Curve (AUC-ROC) - Measures the classifier's ability to discriminate between classes across various thresholds.
+Confusion Matrix - A table showing true positives, false positives, true negatives, and false negatives.
+Specificity (True Negative Rate) - The proportion of actual negatives correctly identified.
+False Positive Rate - The proportion of actual negatives incorrectly classified as positive.
+Classification Threshold - The decision boundary used to determine class assignment.
+Class Distribution - Information about the balance or imbalance of classes in your dataset.
+Model Confidence/Probability Scores - The probability estimates for predictions rather than just the final classifications.
+Training/Testing Performance Gap - Indicates potential overfitting or underfitting.
+Feature Importance - Which features have the greatest impact on classification outcomes.
+Cross-Validation Results - Performance metrics across multiple data splits.
+Runtime/Inference Speed - How quickly the classifier makes predictions.
+Document saved to ./Results/res_09/query_router_report.docx
